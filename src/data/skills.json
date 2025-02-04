@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "./assets/skills/python.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "./assets/skills/sql.png"
+  },
+  {
+    "title": "Rest API",
+    "imageSrc": "./assets/skills/api.png"
+  },
+  {
+    "title": "Generative AI",
+    "imageSrc": "./assets/skills/AI.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "./assets/skills/ml.png"
+  },
+  {
+    "title": "Deep Learning",
+    "imageSrc": "./assets/skills/deepl.png"
+  },
+  {
+    "title": "Database",
+    "imageSrc": "./assets/skills/database.png"
+  }
+]

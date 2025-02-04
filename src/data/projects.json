@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Reelify AI",
+    "imageSrc": "./assets/projects/reelify1.png",
+    "description": "This is a project made to create 60 seconds reels with a single prompt",
+    "skills": ["Dalle", "Claude", "OpenCV"],
+    "demo": "https://github.com/Keshav0375/Reelify-AI",
+    "source": "https://github.com/Keshav0375/Reelify-AI"
+  },
+  {
+    "title": "JobFit Crafter",
+    "imageSrc": "./assets/projects/jobfit.png",
+    "description": "This is a project made to create tailored new resume with providing JD and resume.",
+    "skills": ["Azure OpenAI Studio", "Amazon Bedrock", "Document Processing"],
+    "demo": "https://jobfit-crafter-ai.streamlit.app/",
+    "source": "https://github.com/Keshav0375/JobFIT-Crafter"
+  },
+  {
+    "title": "DataDialect",
+    "imageSrc": "./assets/projects/datadialect.png",
+    "description": "This is a project made to build conversation between databases using natural language.",
+    "skills": ["LangChain", "SQL", "Hugging Face"],
+    "demo": "https://datadialect-arri.streamlit.app/",
+    "source": "https://github.com/Keshav0375/DataDialect"
+  }
+]

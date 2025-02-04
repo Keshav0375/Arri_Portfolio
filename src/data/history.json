@@ -1,0 +1,29 @@
+[
+  {
+    "role": "AI ML Engineer",
+    "organisation": "Slideoo",
+    "startDate": "April, 2024",
+    "endDate": "February 2025",
+    "experiences": ["Worked on AI pipelines", "RAG chatbots"],
+    "imageSrc": "./assets/skills/slideoo.png"
+  },
+  {
+    "role": "AI ML Engineer",
+    "organisation": "REWORK AI",
+    "startDate": "Jan, 2024",
+    "endDate": "March, 2024",
+    "experiences": ["Worked on document processing", "Designed the user personalised questoinare"],
+    "imageSrc": "./assets/skills/rework.png"
+  },
+  {
+    "role": "Data Scientist",
+    "organisation": "Sabudh Foundation",
+    "startDate": "Jun, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Worked on Line segmentation using Detectron",
+      "worked on NER"
+    ],
+    "imageSrc": "./assets/skills/sabudh.png"
+  }
+]
