@@ -21,7 +21,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={cursorIcon} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>AI ML Engineer</h3>
               <p>
                 I am a passionate AI/ML engineer with expertise in designing and deploying scalable machine learning models. My focus is on building end-to-end AI pipelines that drive innovation and solve complex real-world problems.
               </p>
