@@ -22,5 +22,14 @@
     "skills": ["LangChain", "SQL", "Hugging Face"],
     "demo": "https://datadialect-arri.streamlit.app/",
     "source": "https://github.com/Keshav0375/DataDialect"
+  },
+  {
+    "title": "AgenticIQ",
+    "imageSrc": "./assets/projects/flowapp.png",
+    "description": "A project that provides me as your research Assistant.",
+    "skills": ["Langflow", "Agents", "LLMs"],
+    "demo": "https://me-as-your-ai-assistant.streamlit.app/",
+    "source": "https://github.com/Keshav0375/AgenticIQ"
   }
+  
 ]

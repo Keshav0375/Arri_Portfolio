@@ -5,11 +5,13 @@ import styles from "./ProjectCard.module.css";
 import dataImage from "../../../assets/projects/datadialect.png";
 import jobfitImage from "../../../assets/projects/jobfit.png";
 import reelifyImage from "../../../assets/projects/reelify1.png";
+import agendImage from "../../../assets/projects/flowapp.png";
 
 const imageMap = {
   "./assets/projects/datadialect.png": dataImage,
   "./assets/projects/jobfit.png": jobfitImage,
   "./assets/projects/reelify1.png": reelifyImage,
+  "./assets/projects/flowapp.png": agendImage
 };
 
 export const ProjectCard = ({
